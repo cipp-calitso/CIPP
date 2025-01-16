@@ -106,11 +106,6 @@
     "recommendedRunInterval": "4h"
   },
   {
-    "name": "BreachAlert",
-    "label": "Alert on (new) potentially breached passwords. Generates an alert if a password is found to be breached.",
-    "recommendedRunInterval": "7d"
-  },
-  {
     "name": "HuntressRogueApps",
     "label": "Alert on Huntress Rogue Apps detected",
     "recommendedRunInterval": "4h",
